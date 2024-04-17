@@ -1,4 +1,3 @@
-// File Download Card Component With Tailwind CSS
 class DownloadCard extends HTMLElement {
   constructor() {
     super();
